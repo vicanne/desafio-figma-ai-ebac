@@ -19,10 +19,11 @@ Recriação e adaptação de uma interface de jogos (*Game UI*), focando em hier
 ## 🖼️ Comparativo: Referência vs. Projeto Final
 
 ### 1. Interface Criada (*Echoes of Lumé*)
-![Echoes of Lumé UI](projeto-final.png)
+<img width="1750" height="1002" alt="LUMÉ" src="https://github.com/user-attachments/assets/e52a554b-0429-4b69-b5f2-528b58b54b04" />
 
 ### 2. Referência Utilizada (*League of Legends Client*)
-![Referência LoL](referencia-lol.png)
+<img width="1614" height="900" alt="BASE" src="https://github.com/user-attachments/assets/3b5fdc27-ad02-4bf3-80db-ff1d4ad87034" />
+
 
 ---
 
